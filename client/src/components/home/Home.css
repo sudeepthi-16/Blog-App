@@ -1,0 +1,32 @@
+.articleHome {
+  background-color: #c160dc; /* Light background color */
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 20px;
+  font-family: "Arial", sans-serif; /* Updated font family */
+  color: #333; /* Text color */
+}
+
+.articleHome h1 {
+  color: #450f58; /* Dark blue for the header */
+  font-family: "Georgia", serif; /* Font style for header */
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.articleImage {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.lead {
+  font-family: "Arial", sans-serif; /* Body text font */
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #000000; /* Body text color */
+}
